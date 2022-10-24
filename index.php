@@ -8,6 +8,6 @@ $namaadik = "Ukassya";
 $umuradik = 1;
 echo "nama adik saya $namaadik, adik saya berusia $umuradik <br>";
 $selisih = $umur - $umuradik;
-echo "selisih usia saya dan adik saya adalah $selisih tahun";
+echo "selisih usia saya dan adik saya adalah $selisih tahun <br>";
 ?>
 
